@@ -1,0 +1,151 @@
+# Translation of Themes - Shopient in French (France)
+# This file is distributed under the same license as the Themes - Shopient package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-10 07:50:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Shopient\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Shopient is a WooCommerce multipurpose WordPress theme designed for shopping online stores. Shopient is suitable for eCommerce websites such as fashion, suit, sneaker, shoes, glasses, accessories, supermarket … or anything you want. The theme is built with lots of cool features and fully eCommerce functionalities in Pro version. Visit Shopient pro demo. https://preview.sellerthemes.com/pro/shopient/"
+msgstr "Shopient est un thème WordPress polyvalent pour WooCommerce conçu pour les boutiques d‘achats en ligne. Shopient convient aux sites web eCommerce tels que la mode, les vêtements, les baskets, les chaussures, les lunettes, les accessoires, le supermarché… ou tout ce que vous voulez. Le thème est construit avec de nombreuses fonctionnalités et une gestion complète de l‘eCommerce dans sa version Pro. Voir la démo de Shopient pro. https://preview.sellerthemes.com/pro/shopient/"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Shopient"
+msgstr "Shopient"
+
+#: inc/customizer/customizer-options/shopient-pro.php:29
+msgid "Give us Rating"
+msgstr "Évaluez nous"
+
+#: inc/customizer/customizer-options/shopient-pro.php:27
+msgid "Ask for Support"
+msgstr "Demande de support"
+
+#: inc/customizer/customizer-options/shopient-pro.php:25
+msgid "Purchase Now"
+msgstr "Acheter maintenant"
+
+#: inc/customizer/customizer-options/shopient-pro.php:23
+msgid "Pro Demo"
+msgstr "Démo Pro"
+
+#: inc/customizer/customizer-options/shopient-pro.php:7
+msgid "Get More Features in Shopient Pro"
+msgstr "Obtenez plus de fonctionnalités avec Shopient Pro"
+
+#: inc/customizer/customizer-options/shopient-header.php:109
+msgid "Sign Out Title"
+msgstr "Titre de déconnexion"
+
+#: inc/customizer/customizer-options/shopient-header.php:90
+msgid "Sign In Title"
+msgstr "Titre de connexion"
+
+#: template-parts/sections/section-header.php:65
+msgid "Header Above Collapse"
+msgstr "En-tête au dessus du repliage"
+
+#: template-parts/sections/section-header.php:56
+msgid "Header Close Menu"
+msgstr "En-tête de fermeture de menu"
+
+#: template-parts/sections/section-header.php:47
+msgid "Menu Collaped"
+msgstr "Menu replié"
+
+#: inc/customizer/customizer-options/shopient-header.php:291
+#: inc/customizer/customizer-options/shopient-header.php:310
+msgid "Sticky Header"
+msgstr "En-tête fixe"
+
+#: inc/customizer/customizer-options/shopient-header.php:257
+msgid "Product Search"
+msgstr "Rechercher un produit"
+
+#: inc/customizer/customizer-options/shopient-header.php:197
+msgid "Browse Category"
+msgstr "Parcourir la catégorie"
+
+#: inc/customizer/customizer-options/shopient-header.php:178
+msgid "Browse Section"
+msgstr "Parcourir la section"
+
+#: inc/customizer/customizer-options/shopient-header.php:166
+msgid "Cart Title"
+msgstr "Titre du panier"
+
+#: inc/customizer/customizer-options/shopient-header.php:130
+msgid "Cart"
+msgstr "Panier"
+
+#: inc/customizer/customizer-options/shopient-header.php:236
+msgid "Title"
+msgstr "Titre"
+
+#: inc/customizer/customizer-options/shopient-header.php:71
+#: inc/customizer/customizer-options/shopient-header.php:147
+#: inc/customizer/customizer-options/shopient-header.php:216
+#: inc/customizer/customizer-options/shopient-header.php:276
+#: inc/customizer/customizer-options/shopient-header.php:327
+msgid "Hide/Show"
+msgstr "Masquer/Afficher"
+
+#: inc/customizer/customizer-options/shopient-header.php:54
+msgid "My Account"
+msgstr "Mon compte"
+
+#: inc/customizer/customizer-options/shopient-header.php:34
+msgid "Header Navigation"
+msgstr "Navigation d’en-tête"
+
+#: inc/customizer/customizer-options/shopient-header.php:22
+msgid "Site Identity"
+msgstr "Identité du site"
+
+#: inc/customizer/customizer-options/shopient-header.php:12
+msgid "Header"
+msgstr "En-tête"
+
+#: header.php:17
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#: functions.php:86
+msgid "CLOSE"
+msgstr "FERMER"
+
+#: functions.php:85
+msgid "Shopping Cart"
+msgstr "Panier d’achat"
+
+#: functions.php:71
+msgid "0"
+msgstr "0"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://sellerthemes.com/shopient-free/"
+msgstr "https://sellerthemes.com/shopient-free/"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://sellerthemes.com/"
+msgstr "https://sellerthemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Seller Themes"
+msgstr "Seller Themes"
